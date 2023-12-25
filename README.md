@@ -5,8 +5,7 @@ A program that gets random jokes! Some are really naughty!
 # Installation dependency 
 
 #### pip install pandas
-
-
+#### pip install numpy
 #### pip install PySimpleGUI 
 
 
